@@ -14,6 +14,9 @@ I Am A Frontend Web Developer and I Make Responsive Websites with Modern Technol
 
 - [Visual Studio Code](https://code.visualstudio.com/) - I use VS code as it has all the requirements for building web projects and comes with alot of shortcut keys that makes work faster .
 
+- Arduino - Arduino is a C++ framework that I use for embedded systems programming.
+**You can go through my pinned repositories which showcase my current skills.**
+
 <!-- ![Frontend developer, EngineerHamziey.](./images/banner.jpg) -->
 
 ## A little about me :sunglasses:
@@ -22,13 +25,12 @@ I have been learning front-end web development for about 2 years and about a yea
 
 I currently work part-time at `HAMZATRONICS TECHNOLOGIES` where I teach people Frontend Web Development and Embedded Systems programming using Aduino/C++ here in my country.
 
-- I am currently Learning `REACT.js`
+- I am currently Learning `REACT.js` :muscle:
 
-**You can go through my pinned repositories which showcase my current skills.**
 
 <!-- ## Accomplishments :trophy: -->
 
-## My social media :heavy_check_mark:
+## My social media :blush:
 
 - **You can connect with me on [LinkedIn](https://www.linkedin.com/in/hamzat-lawal-a88404239)**
 - **You can connect with me on [Twitter](https://twitter.com/EngineerHamziey)**
