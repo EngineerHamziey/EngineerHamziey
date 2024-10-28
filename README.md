@@ -1,38 +1,61 @@
-# Hello there!
 
-**this is out of date, it was written about a year or 2 years ago**
+---
 
-I Am A Frontend Web Developer **Looking for a full-time/part-time job** and I Make Responsive Websites with Modern Technologies using:
+# **LAWAL HAMZAT ADEMOLA (HAMZATRONICS)**  
+👨‍💻 IoT & Robotics Engineer | Embedded Systems Developer | Tech Trainer 👨‍🏫  
+📱 **WhatsApp**: [Message Me](https://wa.link/9wp4z9) | **LinkedIn**: [Connect with me](https://www.linkedin.com/in/hamzat-lawal-a88404239) | **GitHub**: [Explore My Projects](https://github.com/EngineerHamziey)
 
-- [HTML 5](https://developer.mozilla.org/en-US/docs/Web/html) - For writing website markup.
+---
 
-- [CSS 3](https://developer.mozilla.org/en-US/docs/Web/css) - For styling the webpages.
+## **PROFESSIONAL SUMMARY** 🌟
+As an experienced IoT and Robotics Engineer, I bring over 5 years of expertise in creating innovative IoT systems, advanced embedded solutions, and impactful training programs, focusing mainly on Arduino and ESP32 microcontrollers as well as IOT Apps. Founder of **Hamzatronics Technologies**, a tech hub advancing Embedded Systems, IoT, and Robotics, I specialize in integrating hardware and software seamlessly. My approach is client-centered, aiming for solutions that are practical and highly scalable. Through training, I’m passionate about empowering the next generation of engineers, delivering personalized courses and practical insights into IoT, Robotics, and Web Applications for IoT.
 
-- [Sass](https://sass-lang.com/) - I use SASS to write clean, easy and less CSS in a programming construct. I use .SCSS format as its easier to mentain and has no effect on functionality.
+---
 
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) - I use JavaScript to create dynamically updating content, control multimedia, animate images, etc.
+### **Core Skills** 📌
+- **IoT Development & Embedded Systems**: Arduino, ESP32, C++, Electronics
+- **Web Technologies for IoT**: HTML, CSS, JavaScript, SASS/SCSS
+- **Design & Simulation Tools**: Proteus Simulation Software
+- **Project Management**: Client-focused IoT project design, Custom solutions
+- **Tech Training Programs**: SIWES, SWEP, and IT development
+- **Version Control**: Git & GitHub
 
-- [Git](https://git-scm.com/) - I use GitHub for version control, collaboration and alot more. I use `CMDER` CLI tool for Git version control.
+---
 
-- [Visual Studio Code](https://code.visualstudio.com/) - I use VS code as it has all the requirements for building web projects and comes with alot of shortcut keys that makes work faster .
+### **Professional Experience**
 
-- Arduino - Arduino is a C++ framework that I use for embedded systems programming.
-**You can go through my pinned repositories which showcase my current skills.**
+#### **Founder & IoT Engineer**  
+**Hamzatronics Technologies** | 2020 – Present  
+- Spearheaded multiple IoT projects, including a **Smart Drug Prescription System** using ESP32, temperature, and heart rate sensors for real-time health recommendations.
+- Designed custom solutions such as a **Remote-Controlled Fuel Barge** and **Smart Home Automation System**, integrating Arduino programming with mobile/web interfaces.
+- Launched affordable **personal IoT and Robotics training programs** for students and professionals, offering courses in IoT, Arduino, and Robotics Engineering.
+- Established SIWES, SWEP, and IT programs, providing hands-on experience in IoT, Robotics, and embedded systems.
 
-<!-- ![Frontend developer, EngineerHamziey.](./images/banner.jpg) -->
+#### **Freelance IoT & Robotics Developer**  
+**Self-Employed / Freelancing Platforms**  
+- Delivered customized IoT solutions from concept to deployment, focusing on reliability and scalability.
+- Developed Arduino-based systems for remote monitoring and control, demonstrating innovative problem-solving and technical adaptability.
 
-## A little about me :sunglasses:
+---
 
-I have been learning front-end web development for about 2 years and about a year ago I started building projects at FrontendMentor. I have built over 7 websites that show my front-end skills.Most of them are available on GitHub.I also ensure to write a very informative `README` for each project.
+### **Projects & Achievements** 🏆
 
-I currently work part-time at `HAMZATRONICS TECHNOLOGIES` where I teach people Frontend Web Development and Embedded Systems programming using Aduino/C++ here in my country.
+- **Remote-Controlled 4DOF Robotic Arm**: Designed a 4 DOF robotic arm with mobile capability, controllable via an Android app for precise object manipulation.
+- **Smart Drug Prescription System (IoT)**: Developed a system utilizing Arduino, temperature, and heart rate sensors, along with a responsive web app for health monitoring and prescriptions.
+- **Remote-Controlled Fuel Barge**: Created a fuel barge system using ESP32 and an interactive web app for remote operation.
+- **Smart Home Automation System**: Developed a home automation system controlled via a Telegram bot, with lighting control and intruder alert features.
 
-- I am currently Learning `REACT.js` :muscle:
+---
 
+### **Education** 🎓
+- **BSc in Computer Science**  
+  Federal University of Agriculture, Abeokuta (FUNAAB)
 
-<!-- ## Accomplishments :trophy: -->
+---
 
-## My social media :blush:
+### **Additional Information**
+- **Availability**: Open to contract, project, and employment opportunities in IoT, Robotics, and Embedded Systems Engineering (Remote & Hybrid)
+- **Professional Interests**: Passionate about IoT and tech education, with a focus on new trends in robotics and embedded systems.
+- **Languages**: Fluent in English and Yoruba
 
-- **You can connect with me on [LinkedIn](https://www.linkedin.com/in/hamzat-lawal-a88404239)**
-- **You can connect with me on [Twitter](https://twitter.com/EngineerHamziey)**
+--- 
