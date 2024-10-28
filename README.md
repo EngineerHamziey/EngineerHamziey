@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/d/1_fLPQk0_BdnqMJriee8YCzX8AIoHLkQZ" alt="Lawal Hamzat Ademola" width="200" />
+</p>
+
 ---
 
 # **LAWAL HAMZAT ADEMOLA (HAMZATRONICS)**  
