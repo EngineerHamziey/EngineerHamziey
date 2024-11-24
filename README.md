@@ -2,13 +2,13 @@
 ---
 
 # **LAWAL HAMZAT ADEMOLA (HAMZATRONICS)**  
-👨‍💻 IoT & Robotics Engineer | Embedded Systems Developer | Tech Trainer 👨‍🏫  
+👨‍💻 Frontend Web Developer | IoT & Robotics Engineer | Embedded Systems Developer | Tech Trainer 👨‍🏫  
 📱 **WhatsApp**: [Message Me](https://wa.link/9wp4z9) | **LinkedIn**: [Connect with me](https://www.linkedin.com/in/hamzat-lawal-a88404239) | **GitHub**: [Explore My Projects](https://github.com/EngineerHamziey)
 
 ---
 
-## **PROFESSIONAL SUMMARY** 🌟
-As an experienced IoT and Robotics Engineer, I bring over 5 years of expertise in creating innovative IoT systems, advanced embedded solutions, and impactful training programs, focusing mainly on Arduino and ESP32 microcontrollers as well as IOT Apps. Founder of **Hamzatronics Technologies**, a tech hub advancing Embedded Systems, IoT, and Robotics, I specialize in integrating hardware and software seamlessly. My approach is client-centered, aiming for solutions that are practical and highly scalable. Through training, I’m passionate about empowering the next generation of engineers, delivering personalized courses and practical insights into IoT, Robotics, and Web Applications for IoT.
+## **PROFESSIONAL FOCUS** 🌟
+As an experienced Frontend, IoT and Robotics Engineer, I bring over 5 years of expertise in creating innovative Websites and IoT systems, advanced embedded solutions, and impactful training programs, focusing mainly on Web Development, Arduino and ESP32 microcontrollers as well as IOT Apps. Founder of **Hamzatronics Technologies**, a tech hub advancing Frontend Web Development, Embedded Systems, IoT, and Robotics, I specialize in integrating hardware and software seamlessly. My approach is client-centered, aiming for solutions that are practical and highly scalable. Through training, I’m passionate about empowering the next generation of engineers, delivering personalized courses and practical insights into IoT, Robotics, and Web Applications for IoT.
 
 ---
 
