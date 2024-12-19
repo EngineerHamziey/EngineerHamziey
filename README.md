@@ -3,7 +3,8 @@
 
 # **LAWAL HAMZAT ADEMOLA (HAMZATRONICS)**  
 👨‍💻 Frontend Web Developer | IoT & Robotics Engineer | Embedded Systems Developer | Tech Trainer 👨‍🏫  
-📱 **WhatsApp**: [Message Me](https://wa.link/9wp4z9) | **LinkedIn**: [Connect with me](https://www.linkedin.com/in/hamzat-lawal-a88404239) | **GitHub**: [Explore My Projects](https://github.com/EngineerHamziey)
+
+📱 **WhatsApp**: [Message Me](https://wa.link/9wp4z9) | 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/hamzat-lawal-a88404239) | 🚀 **GitHub**: [Explore My Projects](https://github.com/EngineerHamziey) | 🌟 **Upwork**: [Hire Me](https://www.upwork.com/freelancers/lawalh7)  
 
 ---
 
