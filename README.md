@@ -15,7 +15,7 @@ As an experienced Frontend, IoT and Robotics Engineer, I bring over 5 years of e
 
 ### **Core Skills** 📌
 - **IoT Development & Embedded Systems**: Arduino, ESP32, C++, Electronics
-- **Web Technologies for IoT**: HTML, CSS, JavaScript, SASS/SCSS
+- **Web Technologies for IoT**: HTML, CSS, JavaScript, SASS/SCSS, Firebase Realtime Database.
 - **Design & Simulation Tools**: Proteus Simulation Software
 - **Project Management**: Client-focused IoT project design, Custom solutions
 - **Tech Training Programs**: SIWES, SWEP, and IT development
